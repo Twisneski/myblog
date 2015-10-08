@@ -1,0 +1,46 @@
+body {
+font-family: Arial;
+text-align: left;
+background-color: green;
+}
+#blog-title{color: green;"ariel"}
+
+.bordered {border 3px dotted black;font-weight:bold;border-radius: 10px; padding: 5px}
+.yellow {background-color:yellow;}
+.large {font-size: 50px;}
+
+.float-right{float:right;}
+.float-left{float:left;}
+.cleared {clear:both;}
+.margin-bottom{margin: 0 0 100px 0}
+#my-header > .navigation> div.bordered {background-color: green;}
+.nav {
+    background-color: grey;
+  height: 30px;}
+#my-header>.navigation>div.bordered{background color; 
+  red; 
+  float: left width: 100px;
+  padding:5px 10px
+  text-align}
+.div home {left-align}  
+.div enter {center-align
+}
+
+.navigation > ul > li {float:left;
+list-style-type:none;
+margin: 3px 8px;
+border: 1px dotted gray;
+padding: 8px;
+background-color: goldenrod;
+font-family: sans-serif;
+font size:  18px;
+cursor: pointer;
+text-decoration:  underline;
+}
+.navigation > ul > li: hover {background-color: blue;}
+.navigation > ul > li {float:left;
+	border-bottom-color: yellow;
+border-bottom-color: #F5F6F7;
+
+
+
